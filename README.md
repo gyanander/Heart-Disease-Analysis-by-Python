@@ -1,13 +1,32 @@
-Project:
+**Project Overview** 
+                     This project performs Exploratory Data Analysis(EDA) on a Heart Disease dataset using Python.
+                     The objective is to analyze various health-related factors and identify patterns associated with heart disease.
+         
+Tools & Libraries
+Python
+Pandas
+Numpy
+Matplotlib
+Seaborn
 
-         Heart-Disease-Analysis-by-Python
-         
-         
- Insights:
- 
- 
-         1.In the Dataset (51.31%)people have chance to heart Disease.
-         2. Male have higher chance to diesease to female.
-         3. The mostly people are age distribution between 45 to 65.
-         4. most common chest pain type is typical angima.
-         5. Female have low chance of heart Disease than male.
+Key Analysis Performed
+Data cleaning
+Data information & statistics
+Missing value Analysis
+Duplicate Data Removal
+Correlation Matrix
+Age Distribution Analysis
+Gender- Wise Analysis
+Chest Pain Type Analysis
+Fasting Blood sugar Analysis
+Resting Blood Pressure Analysis
+Cholesterol Distribution Analysis
+Data Visualization
+
+Key Insights
+Explored relationship between medical attributes and heart disease.
+Identified important features using correlation analysis.
+Visualized trends across age,gender and cholesterol levels.
+
+Outcome
+Successfully performed data cleaning,analysis and visualization to gain meaningfull insights from the heart disease dataset.
