@@ -4,13 +4,9 @@
          
 **Tools & Libraries**
 -Python
-
 -Pandas
-
 -Numpy
-
 -Matplotlib
-
 -Seaborn
 
 **Key Analysis Performed**
