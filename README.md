@@ -4,24 +4,28 @@
          
 **Tools & Libraries**
 -Python
+
 -Pandas
+
 -Numpy
+
 -Matplotlib
+
 -Seaborn
 
 **Key Analysis Performed**
--Data cleaning
--Data information & statistics
--Missing value Analysis
--Duplicate Data Removal
--Correlation Matrix
--Age Distribution Analysis
--Gender- Wise Analysis
--Chest Pain Type Analysis
--Fasting Blood sugar Analysis
--Resting Blood Pressure Analysis
--Cholesterol Distribution Analysis
--Data Visualization
+-Data cleaning 
+-Data information & statistics 
+-Missing value Analysis 
+-Duplicate Data Removal 
+-Correlation Matrix 
+-Age Distribution Analysis 
+-Gender- Wise Analysis 
+-Chest Pain Type Analysis 
+-Fasting Blood sugar Analysis 
+-Resting Blood Pressure Analysis 
+-Cholesterol Distribution Analysis 
+-Data Visualization 
 
 **Key Insights**
 -Explored relationship between medical attributes and heart disease.
